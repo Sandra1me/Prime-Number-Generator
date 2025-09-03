@@ -13,7 +13,7 @@ A simple C program to check if a number is prime and to generate prime numbers w
 
 To compile the program, use a C compiler like `gcc`:
 
-```bash
+```c
 gcc -o primeGenerator primeGenerator.c
 ```
 
@@ -21,7 +21,7 @@ gcc -o primeGenerator primeGenerator.c
 
 Once compiled, run the program from the terminal:
 
-```bash
+```c
 ./primeGenerator
 ```
 
